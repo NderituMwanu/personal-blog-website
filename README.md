@@ -7,14 +7,14 @@ Gerald Nderitu
 
 ### Project Description
 
-Pitches is an application that allows a user to create and account(via signing up using their email address), login and post pitches. Other logged in users can like, dislike and comment on various posts. You can also view your profile information on your profile page.
+Blog Post is an application that allows a user to sign up and create a blogPost and have comments left for users to offer their views abot what has been posted. The user Logs in and creates a post in whatever field they please. Users can view past blog posts and subscribe to those particular channels to get notifications on latest posts. 
 
 ## SetUp Instructions
 
 Navigate to the desired location on your local machine and Clone or download this repository using the following command:
 
 ```
-git clone https://github.com/NderituMwanu/pitches.git
+git clone https://github.com/NderituMwanu/personal-blog-website
 ```
 
 You now have a copy of the repository on your computer.
