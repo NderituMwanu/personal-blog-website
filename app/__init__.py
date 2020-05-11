@@ -14,7 +14,6 @@ bootstrap = Bootstrap()
 
 def create_app():
     app = Flask(__name__)
-
     app.config['SECRET_KEY'] = 'JRRY'
     app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://ms:New Password@localhost/USER'
     app.config['API_URI'] = 'http://quotes.stormconsultancy.co.uk/random.json'
