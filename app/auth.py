@@ -131,7 +131,6 @@ def subscribe():
     return redirect(url_for('main.index'))
 
 
-
 @auth.route("/addpost", methods=['POST'])
 @login_required
 def addpost():
