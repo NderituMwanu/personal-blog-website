@@ -3,6 +3,7 @@ from .models import Quote
 
 base_url = 'http://quotes.stormconsultancy.co.uk/random.json' 
 
+
 def get_quotes():
     get_quote_url = base_url
 
